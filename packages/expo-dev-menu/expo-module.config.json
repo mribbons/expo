@@ -16,6 +16,7 @@
   "android": {
     "modules": [
       "expo.modules.devmenu.modules.DevMenuModule", 
+      "expo.modules.devmenu.modules.DevMenuInternalModule", 
       "expo.modules.devmenu.modules.DevMenuPreferences"
     ]
   }
